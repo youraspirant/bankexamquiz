@@ -1,0 +1,38 @@
+[
+    {
+      "question": "What comes next in the series: A, C, E, G, ?",
+      "options": ["H", "I", "J", "K", "L"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "The series increases by 2 letters: A(+2)=C, C(+2)=E, E(+2)=G, G(+2)=I. So, the next letter is 'I'."
+    },
+    {
+      "question": "Find the next letter in the sequence: B, D, G, K, ?",
+      "options": ["O", "P", "Q", "R", "S"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "The gap increases: B(+2)=D, D(+3)=G, G(+4)=K, K(+5)=O. So, the next is 'O'."
+    },
+    {
+      "question": "What comes next in the series: Z, X, V, T, ?",
+      "options": ["R", "S", "Q", "U", "O"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "The series decreases by 2 letters each time: Z(-2)=X, X(-2)=V, V(-2)=T, T(-2)=R."
+    },
+    {
+      "question": "Find the next letter: A, D, G, J, ?",
+      "options": ["K", "M", "L", "N", "O"],
+      "answer": 1,
+      "difficulty": "Easy",
+      "explanation": "A(+3)=D, D(+3)=G, G(+3)=J, J(+3)=M."
+    },
+    {
+      "question": "What is the next letter in the series: M, N, O, P, ?",
+      "options": ["Q", "R", "S", "T", "U"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "The series moves in alphabetical order: M, N, O, P, Q."
+    }
+  ]
+  

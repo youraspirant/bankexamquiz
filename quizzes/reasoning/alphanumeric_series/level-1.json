@@ -1,0 +1,38 @@
+[
+    {
+      "question": "What comes next in the series: A1, B2, C3, D4, ?",
+      "options": ["E5", "F5", "G6", "E4", "D5"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "The letters move alphabetically and numbers increase by 1. So after D4, it’s E5."
+    },
+    {
+      "question": "Find the next in series: Z9, Y8, X7, W6, ?",
+      "options": ["U5", "V5", "W5", "T5", "X5"],
+      "answer": 1,
+      "difficulty": "Easy",
+      "explanation": "Letters decrease: Z, Y, X, W... next is V; numbers decrease from 9 to 5. So, V5."
+    },
+    {
+      "question": "Identify the next term: K3, L5, M7, N9, ?",
+      "options": ["O10", "O11", "P11", "O13", "P12"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "Letters increase by 1, numbers increase by 2: K3 → L5 → M7 → N9 → P11."
+    },
+    {
+      "question": "What is next in: D2, F4, H6, J8, ?",
+      "options": ["L9", "K10", "L11", "M12", "K9"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "Letters increase by 2, numbers increase by 2: D→F→H→J→L; 2→4→6→8→10."
+    },
+    {
+      "question": "Find the next: A5, C10, E15, G20, ?",
+      "options": ["H25", "I30", "J25", "K25", "I27"],
+      "answer": 3,
+      "difficulty": "Easy",
+      "explanation": "Letters increase by 2: A→C→E→G→I; Numbers increase by 5: 5→10→15→20→25."
+    }
+  ]
+  

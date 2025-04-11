@@ -1,0 +1,38 @@
+[
+    {
+      "question": "In the series: A2, B4, C6, D8, which number is associated with the 5th term?",
+      "options": ["10", "11", "12", "9", "13"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "Numbers increase by 2. Next after D8 is E10. So, number is 10."
+    },
+    {
+      "question": "In A1, B2, C3, D4, what is the letter in the 4th term?",
+      "options": ["A", "B", "C", "D", "E"],
+      "answer": 3,
+      "difficulty": "Easy",
+      "explanation": "4th term is D4, so the letter is D."
+    },
+    {
+      "question": "If the pattern is Z1, Y2, X3, what is the 5th term?",
+      "options": ["V5", "W4", "U5", "T6", "V6"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "Z→Y→X→W→V, Numbers: 1→2→3→4→5."
+    },
+    {
+      "question": "What is the sum of digits in the 3rd term: G1, H2, I3, J4, K5?",
+      "options": ["1", "2", "3", "4", "5"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "3rd term is I3. The number is 3, so sum of digits = 3."
+    },
+    {
+      "question": "Find the position of the letter in the 2nd term: D5, E6, F7, G8, H9",
+      "options": ["E", "F", "D", "C", "G"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "2nd term is E6, so the letter is E."
+    }
+  ]
+  

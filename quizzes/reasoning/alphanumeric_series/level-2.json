@@ -1,0 +1,38 @@
+[
+    {
+      "question": "What comes next: A1!, B2@, C3#, D4$, ?",
+      "options": ["E5%", "E5^", "F5%", "F6^", "E5@"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "Letters and numbers increase by 1, symbols follow a pattern: !, @, #, $, %. So, next is E5%."
+    },
+    {
+      "question": "Complete the sequence: X5*, W4&, V3#, U2@, ?",
+      "options": ["T1!", "T1#", "T2!", "S0$", "T1%"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "Letters decrease by 1: X→W→V→U→T, Numbers decrease by 1: 5→4→3→2→1, Symbols: *, &, #, @, !"
+    },
+    {
+      "question": "What is next: M9#, N10$, O11%, P12^, ?",
+      "options": ["Q13&", "R13*", "Q13*", "Q14&", "R14#"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "Letters go M→N→O→P→Q; Numbers increase by 1; Symbols follow #: $, %, ^, &."
+    },
+    {
+      "question": "Identify the next term: J3&, K5#, L7@, M9!, ?",
+      "options": ["N11$", "O11$", "N13$", "O13%", "P15^"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "Letters go J→K→L→M→N; Numbers increase by 2: 3→5→7→9→11; Symbols follow &, #, @, !, $."
+    },
+    {
+      "question": "Find the next: B2@, D4#, F6$, H8%, ?",
+      "options": ["I9^", "J10^", "K11^", "L12^", "M13^"],
+      "answer": 1,
+      "difficulty": "Easy",
+      "explanation": "Letters increase by 2: B→D→F→H→J, Numbers +2: 2→4→6→8→10, Symbols: @, #, $, %, ^."
+    }
+  ]
+  

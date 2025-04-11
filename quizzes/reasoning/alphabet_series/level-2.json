@@ -1,0 +1,38 @@
+[
+    {
+      "question": "Find the missing letter: A, C, ?, G, I",
+      "options": ["D", "E", "F", "B", "H"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "The series goes with +2: A(+2)=C, C(+2)=E, E(+2)=G, G(+2)=I. So, the missing letter is E."
+    },
+    {
+      "question": "Complete the series: Z, X, ?, T, R",
+      "options": ["U", "V", "W", "Y", "S"],
+      "answer": 1,
+      "difficulty": "Easy",
+      "explanation": "Series goes -2: Z, X, V, T, R. So, the missing letter is V."
+    },
+    {
+      "question": "What letter should replace the question mark: A, ?, E, G",
+      "options": ["B", "C", "D", "F", "H"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "A(+2)=C, C(+2)=E, E(+2)=G. So, the missing letter is C."
+    },
+    {
+      "question": "Fill in the blank: B, D, ?, H, J",
+      "options": ["E", "F", "G", "I", "C"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "The series goes +2 each time: B(+2)=D, D(+2)=F, F(+2)=H, H(+2)=J. Missing is F."
+    },
+    {
+      "question": "Identify the missing letter: L, N, ?, R, T",
+      "options": ["M", "O", "P", "Q", "S"],
+      "answer": 1,
+      "difficulty": "Easy",
+      "explanation": "Series increases by 2: L, N, O, R, T. Missing is O."
+    }
+  ]
+  
