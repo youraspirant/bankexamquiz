@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Estimate the value of 198 + 307 by rounding to the nearest tens.",
+    "options": ["500", "510", "480", "490", "520"],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "198 ≈ 200 and 307 ≈ 310; 200 + 310 = 510"
+  },
+  {
+    "question": "Estimate: 726 - 347 by rounding to nearest hundred.",
+    "options": ["400", "380", "390", "370", "350"],
+    "answer": 0,
+    "difficulty": "Easy",
+    "explanation": "726 ≈ 700, 347 ≈ 300; 700 - 300 = 400"
+  },
+  {
+    "question": "Approximate the sum of 184.5 + 212.6",
+    "options": ["400", "390", "390.5", "395", "385"],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "184.5 ≈ 185, 212.6 ≈ 210; 185 + 210 = 395"
+  },
+  {
+    "question": "Estimate: 999 + 201",
+    "options": ["1200", "1100", "1000", "1300", "1050"],
+    "answer": 0,
+    "difficulty": "Easy",
+    "explanation": "999 ≈ 1000, 201 ≈ 200; 1000 + 200 = 1200"
+  },
+  {
+    "question": "Estimate: 483 - 276",
+    "options": ["200", "220", "210", "230", "240"],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "483 ≈ 480, 276 ≈ 270; 480 - 270 = 210"
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+      "question": "Estimate the value of 198 + 203 by rounding off to nearest tens.",
+      "options": ["400", "390", "410", "395", "405"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "198 ≈ 200, 203 ≈ 200; 200 + 200 = 400"
+    },
+    {
+      "question": "Approximate 49.7 ÷ 5",
+      "options": ["10", "9.5", "9", "10.5", "11"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "49.7 ≈ 50; 50 ÷ 5 = 10"
+    },
+    {
+      "question": "Estimate 151 × 9 by rounding 151 to nearest ten.",
+      "options": ["1350", "1360", "1370", "1400", "1300"],
+      "answer": 3,
+      "difficulty": "Easy",
+      "explanation": "151 ≈ 150; 150 × 9 = 1350"
+    },
+    {
+      "question": "Estimate 97 + 48 by rounding off to nearest tens.",
+      "options": ["140", "150", "130", "145", "135"],
+      "answer": 1,
+      "difficulty": "Easy",
+      "explanation": "97 ≈ 100, 48 ≈ 50; 100 + 50 = 150"
+    },
+    {
+      "question": "Estimate 61.4 - 19.8",
+      "options": ["40", "41", "43", "42", "39"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "61.4 ≈ 61, 19.8 ≈ 20; 61 - 20 = 41"
+    }
+  ]
+  

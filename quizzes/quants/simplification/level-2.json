@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Simplify: 6 + 2 × (3 + 1)",
+    "options": ["14", "16", "10", "18", "12"],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Bracket: 3+1=4; Multiply: 2×4=8; Add: 6+8=14"
+  },
+  {
+    "question": "Simplify: (5 + 3) × 2",
+    "options": ["14", "16", "18", "12", "10"],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "5 + 3 = 8; 8 × 2 = 16"
+  },
+  {
+    "question": "Simplify: 12 ÷ 4 × (6 - 2)",
+    "options": ["10", "8", "12", "6", "4"],
+    "answer": 0,
+    "difficulty": "Easy",
+    "explanation": "Bracket: 6 - 2 = 4; Division: 12 ÷ 4 = 3; Multiply: 3 × 4 = 12"
+  },
+  {
+    "question": "Simplify: 18 ÷ (3 × 2)",
+    "options": ["2", "3", "4", "6", "1"],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "Bracket: 3 × 2 = 6; 18 ÷ 6 = 3"
+  },
+  {
+    "question": "Simplify: 8 + 6 ÷ 2",
+    "options": ["11", "12", "10", "9", "8"],
+    "answer": 0,
+    "difficulty": "Easy",
+    "explanation": "6 ÷ 2 = 3; 8 + 3 = 11"
+  }
+]

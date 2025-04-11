@@ -1,0 +1,38 @@
+[
+    {
+      "question": "What is the square of 12?",
+      "options": ["144", "122", "132", "124", "156"],
+      "answer": 0,
+      "difficulty": "Easy",
+      "explanation": "12 × 12 = 144"
+    },
+    {
+      "question": "What is the cube of 3?",
+      "options": ["9", "18", "27", "21", "24"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "3 × 3 × 3 = 27"
+    },
+    {
+      "question": "Find the square root of 49.",
+      "options": ["5", "6", "8", "7", "9"],
+      "answer": 3,
+      "difficulty": "Easy",
+      "explanation": "√49 = 7"
+    },
+    {
+      "question": "Find the cube root of 64.",
+      "options": ["3", "4", "5", "6", "7"],
+      "answer": 1,
+      "difficulty": "Easy",
+      "explanation": "Cube root of 64 is 4 because 4 × 4 × 4 = 64"
+    },
+    {
+      "question": "What is the square of 15?",
+      "options": ["200", "210", "225", "235", "220"],
+      "answer": 2,
+      "difficulty": "Easy",
+      "explanation": "15 × 15 = 225"
+    }
+  ]
+  

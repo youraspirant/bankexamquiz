@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Simplify: 25 + 36 - 12",
+    "options": ["49", "51", "45", "50", "54"],
+    "answer": 0,
+    "difficulty": "Easy",
+    "explanation": "25 + 36 = 61; 61 - 12 = 49"
+  },
+  {
+    "question": "Simplify: 18 × 2 + 6",
+    "options": ["42", "38", "40", "36", "48"],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "18 × 2 = 36; 36 + 4 = 40"
+  },
+  {
+    "question": "Simplify: 100 ÷ 4 + 10",
+    "options": ["35", "40", "30", "25", "45"],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "100 ÷ 4 = 25; 25 + 10 = 35"
+  },
+  {
+    "question": "Simplify: 15 + 45 ÷ 5",
+    "options": ["24", "21", "22", "18", "19"],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "45 ÷ 5 = 9; 15 + 9 = 24"
+  },
+  {
+    "question": "Simplify: 90 - 5 × 3",
+    "options": ["75", "85", "80", "60", "65"],
+    "answer": 3,
+    "difficulty": "Easy",
+    "explanation": "5 × 3 = 15; 90 - 15 = 75"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Estimate 49 × 8 by rounding 49 to nearest ten.",
+    "options": ["400", "390", "420", "430", "380"],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "49 ≈ 50; 50 × 8 = 400"
+  },
+  {
+    "question": "Estimate 248 ÷ 12",
+    "options": ["20", "21", "22", "19", "18"],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "248 ÷ 12 ≈ 250 ÷ 12 ≈ 20.8 ≈ 21"
+  },
+  {
+    "question": "Approximate 86 × 4",
+    "options": ["340", "330", "350", "360", "370"],
+    "answer": 0,
+    "difficulty": "Easy",
+    "explanation": "86 ≈ 85; 85 × 4 = 340"
+  },
+  {
+    "question": "Estimate 732 ÷ 6 by rounding 732 to nearest ten.",
+    "options": ["120", "122", "124", "130", "126"],
+    "answer": 2,
+    "difficulty": "Easy",
+    "explanation": "732 ≈ 730; 730 ÷ 6 ≈ 121.6 ≈ 124"
+  },
+  {
+    "question": "Approximate 147 × 3",
+    "options": ["440", "450", "430", "460", "470"],
+    "answer": 1,
+    "difficulty": "Easy",
+    "explanation": "147 ≈ 150; 150 × 3 = 450"
+  }
+]
