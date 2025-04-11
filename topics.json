@@ -114,71 +114,72 @@
       ]
     },
     {
-      "name": "Small Finance Bank",
+      "name": "Small finance bank",
       "subject": "Banking Awerness",
       "quizzes": [
         {
           "name": "Level - 1",
-          "file": "quizzes/General Awarness/small finance bank/level-1.json",
+          "file": "quizzes/General Awarness/small_finance_bank/level-1.json",
           "difficulty": "Easy",
-          "description": "Introduction to Small Finance Banks"
+          "description": "Introduction to small_finance_banks"
         },
         {
           "name": "Level-2",
-          "file": "quizzes/General Awarness/small finance bank/level2.json",
+          "file": "quizzes/General Awarness/small_finance_bank/level2.json",
           "difficulty": "Easy",
-          "description": "Objectives and Need for Small Finance Banks"
+          "description": "Objectives and Need for small_finance_banks"
         },
         {
           "name": "Level - 3",
-          "file": "quizzes/General Awarness/small finance bank/level-3.json",
+          "file": "quizzes/General Awarness/small_finance_bank/level-3.json",
           "difficulty": "Easy",
           "description": "Licensing and Regulatory Framework (RBI Guidelines)"
         },
         {
           "name": "Level - 4",
-          "file": "quizzes/General Awarness/small finance bank/level-4.json",
+          "file": "quizzes/General Awarness/small_finance_bank/level-4.json",
           "difficulty": "Moderate",
-          "description": "Key Features of Small Finance Banks"
+          "description": "Key Features of small_finance_banks"
         },
         {
           "name": "Level - 5",
-          "file": "quizzes/General Awarness/small finance bank/level-5.json",
+          "file": "quizzes/General Awarness/small_finance_bank/level-5.json",
           "difficulty": "Moderate",
-          "description": "List of Small Finance Banks in India"
+          "description": "List of small_finance_banks in India"
         },
         {
           "name": "Level - 6",
-          "file": "quizzes/General Awarness/small finance bank/level-6.json",
+          "file": "quizzes/General Awarness/small_finance_bank/level-6.json",
           "difficulty": "Moderate",
-          "description": "Services Offered by Small Finance Banks"
+          "description": "Services Offered by small_finance_banks"
         },
         {
           "name": "Level - 7",
-          "file": "quizzes/General Awarness/small finance bank/level-7.json",
+          "file": "quizzes/General Awarness/small_finance_bank/level-7.json",
           "difficulty": "Moderate",
           "description": "Role in Financial Inclusion"
         },
         {
           "name": "Level - 8",
-          "file": "quizzes/General Awarness/small finance bank/level-8.json",
+          "file": "quizzes/General Awarness/small_finance_bank/level-8.json",
           "difficulty": "Tough",
-          "description": "Challenges Faced by Small Finance Banks"
+          "description": "Challenges Faced by small_finance_banks"
         },
         {
           "name": "Level - 9",
-          "file": "quizzes/General Awarness/small finance bank/level-9.json",
+          "file": "quizzes/General Awarness/small_finance_bank/level-9.json",
           "difficulty": "Tough",
           "description": "Comparison with Other Banks"
         },
         {
           "name": "Level - 10",
-          "file": "quizzes/General Awarness/small finance bank/level-10.json",
+          "file": "quizzes/General Awarness/small_finance_bank/level-10.json",
           "difficulty": "Tough",
-          "description": "Future Prospects and Growth of Small Finance Banks"
+          "description": "Future Prospects and Growth of small_finance_banks"
         }
       ]
     }
+  
   
   ]
   
