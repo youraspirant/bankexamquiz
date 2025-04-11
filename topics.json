@@ -1,0 +1,118 @@
+[
+    {
+      "name": "Financial Inclusion",
+      "subject": "Banking Awerness",
+      "quizzes": [
+        {
+          "name": "Financial Inclusion Basic",
+          "file": "quizzes/General Awarness/financial inclusion/easy level/financial inclusion.json",
+          "difficulty": "Easy",
+          "description": "Understand basic F.I problems"
+        },
+        {
+          "name": "Financial Inclusion Level 2",
+          "file": "quizzes/General Awarness/financial inclusion/meduim level/financial inclusion.json",
+          "difficulty": "Moderate",
+          "description": "Test intermediate level concepts"
+        },
+        {
+          "name": "Financial Inclusion Challenge",
+          "file": "quizzes/General Awarness/financial inclusion/hard level/financial inclusion.json",
+          "difficulty": "Tough",
+          "description": "Challenge yourself with tough questions"
+        }
+      ]
+    },
+    {
+      "name": "Banking in India",
+      "subject": "Banking Awerness",
+      "quizzes": [
+        {
+          "name": "level 1 - Basic",
+          "file": "quizzes/General Awarness/banking in india/easy.json",
+          "difficulty": "Easy",
+          "description": "Understand basic banking in india problems"
+        },
+        {
+          "name": "Level 2 - medium",
+          "file": "quizzes/General Awarness/banking in india/medium.json",
+          "difficulty": "Moderate",
+          "description": "Test intermediate level concepts"
+        },
+        {
+          "name": "Level 3 - Challenge",
+          "file": "quizzes/General Awarness/banking in india/hard.json",
+          "difficulty": "Tough",
+          "description": "Challenge yourself with tough questions"
+        }
+      ]
+    },
+    {
+      "name": "payment bank",
+      "subject": "Banking Awerness",
+      "quizzes": [
+        {
+          "name": "Level - 1",
+          "file": "quizzes/General Awarness/payment bank/level-1.json",
+          "difficulty": "Easy",
+          "description": "Introduction of payment banks"
+        },
+        {
+          "name": "Level - 2",
+          "file": "quizzes/General Awarness/payment bank/level-2.json",
+          "difficulty": "Easy",
+          "description": "Functions of Payment Banks"
+        },
+        {
+          "name": "Level - 3",
+          "file": "quizzes/General Awarness/payment bank/level-3.json",
+          "difficulty": "Easy",
+          "description": "RBI Guidelines and Licensing"
+        },
+        {
+          "name": "Level - 4",
+          "file": "quizzes/General Awarness/payment bank/level-4.json",
+          "difficulty": "Moderate",
+          "description": "List of Licensed Payment Banks in India"
+        },
+        {
+          "name": "Level - 5",
+          "file": "quizzes/General Awarness/payment bank/level-5.json",
+          "difficulty": "Moderate",
+          "description": "Services Offered by Payment Banks"
+        },
+        {
+          "name": "Level - 6",
+          "file": "quizzes/General Awarness/payment bank/level-5.json",
+          "difficulty": "Moderate",
+          "description": "Limitations of Payment Banks"
+        },
+        {
+          "name": "Level - 7",
+          "file": "quizzes/General Awarness/payment bank/level-7.json",
+          "difficulty": "Moderate",
+          "description": "Comparison with Traditional Banks"
+        },
+        {
+          "name": "Level - 8",
+          "file": "quizzes/General Awarness/payment bank/level-8.json",
+          "difficulty": "Tough",
+          "description": "Financial Inclusion through Payment Banks"
+        },
+        {
+          "name": "Level - 9",
+          "file": "quizzes/General Awarness/payment bank/level-9.json",
+          "difficulty": "Tough",
+          "description": "Role of Technology in Payment Banks"
+        },
+        {
+          "name": "Level - 10",
+          "file": "quizzes/General Awarness/payment bank/level-10.json",
+          "difficulty": "Tough",
+          "description": "Challenges and Future of Payment Banks in India"
+        }
+      ]
+    }
+  
+  ]
+  
