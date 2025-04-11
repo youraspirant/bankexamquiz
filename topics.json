@@ -292,6 +292,60 @@
         "description": "Position-Based Logic in Alphanumeric Series"
       }
     ]
+  },
+    {
+    "name": "Simplification",
+    "subject": "Quantitative Aptitude",
+    "quizzes": [
+      {
+        "name": "Level - 1",
+        "file": "quizzes/quants/simplification/level-1.json",
+        "difficulty": "Easy",
+        "description": "Basic Arithmetic Simplification"
+      },
+      {
+        "name": "Level - 2",
+        "file": "quizzes/quants/simplification/level-2.json",
+        "difficulty": "Easy",
+        "description": "BODMAS Rule"
+      },
+      {
+        "name": "Level - 3",
+        "file": "quizzes/quants/simplification/level-3.json",
+        "difficulty": "Moderate",
+        "description": "Fractions and Decimals Simplification"
+      },
+      {
+        "name": "Level - 4",
+        "file": "quizzes/quants/simplification/level-4.json",
+        "difficulty": "Tough",
+        "description": "Squares, Cubes, and Roots"
+      },
+      {
+        "name": "Level - 5",
+        "file": "quizzes/quants/simplification/level-5.json",
+        "difficulty": "Tough",
+        "description": "Approximations (Rounding Off and Estimations)"
+      }
+    ]
+  },
+  {
+    "name": "Approximation",
+    "subject": "Quantitative Aptitude",
+    "quizzes": [
+      {
+        "name": "Level - 1",
+        "file": "quizzes/quants/approximation/level-1.json",
+        "difficulty": "Easy",
+        "description": "Approximate Addition and Subtraction"
+      },
+      {
+        "name": "Level - 2",
+        "file": "quizzes/quants/approximation/level-2.json",
+        "difficulty": "Moderate",
+        "description": "Approximate Multiplication and Division"
+      }
+    ]
   }
   
   
